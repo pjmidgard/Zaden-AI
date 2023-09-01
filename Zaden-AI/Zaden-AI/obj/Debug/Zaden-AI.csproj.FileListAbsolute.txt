@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden_AI.Form1.resources
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden_AI.Properties.Resources.resources
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\bin\Debug\Zaden-AI.exe.config
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\bin\Debug\Zaden-AI.exe
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\bin\Debug\Zaden-AI.pdb
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.exe
+C:\Users\HP\source\repos\Zaden-AI\Zaden-AI\obj\Debug\Zaden-AI.pdb
