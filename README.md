@@ -1,5 +1,5 @@
 # Zaden-AI
-Zaden-AI
+Zaden-AI Created by Jurijus Pacalovas 
 
 Speech:
 Please, RUN Zaden AI
